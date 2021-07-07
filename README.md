@@ -1,3 +1,7 @@
+This game is our mandatory project for the Software Development course, held on the 4th year of studies at Faculty of Mathematics in Belgrade. <br>
+The repository is forked here for safekeeping. <br>
+Link to the original repository: https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2020-2021/06-timesweeper
+
 ![splash](https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2020-2021/06-timesweeper/-/raw/develop/timesweeper/Resources/Other/splash.png)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-green) ![Qt5](https://img.shields.io/badge/Qt5-blue)
