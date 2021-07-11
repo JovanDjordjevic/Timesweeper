@@ -39,7 +39,7 @@ After cloning the repository to a directory of your choosing (or downloading and
 Inside you will find _timesweeper.pro_ and _CMakeLists.txt_ files. Open one of them with Qt Creator. <br>
 Click on the green Run button you will see in the bottom left. This will build the project and run the game.
 <br><br>
-For running project from terminal or for more detailed instructions on how to install everything, check [this page](https://gitlab.com/matf-bg-ac-rs/course-rs/projects-2020-2021/06-timesweeper/-/wikis/Prevo%C4%91enje).
+For running project from terminal or for more detailed instructions on how to install everything, check [this page](https://github.com/JovanDjordjevic/Timesweeper/wiki/Building-and-running-the-project) on the wiki.
 
 
 ___
